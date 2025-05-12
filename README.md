@@ -1,5 +1,5 @@
 
-# 🧠 Brain Tumor Classification using CNN
+# 🧠 Brain Tumor Segmentation
 
 This project detects and classifies brain tumors into one of four categories — `glioma`, `meningioma`, `pituitary`, or `notumor` — using a Convolutional Neural Network (CNN). It includes a Gradio-based web interface for real-time prediction.
 
